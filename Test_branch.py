@@ -5,3 +5,4 @@ print('czesc', imie)
 
 nazwisko = input('podaj swoje nazwisko: ')
 print('czesc', imie, nazwisko)
+print('bleee')
