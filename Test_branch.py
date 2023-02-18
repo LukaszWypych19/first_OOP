@@ -1,5 +1,8 @@
 print('Hello first branch')
 print('Hello second branch')
-print('hello third branch')
-print('hello fourth branch')
-print('bleeeeee')
+imie = input('Podaj swoje imie: ')
+print('czesc', imie)
+
+nazwisko = input('podaj swoje nazwisko: ')
+print('czesc', imie, nazwisko)
+print('bleee')
